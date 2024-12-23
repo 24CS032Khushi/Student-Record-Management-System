@@ -1,1 +1,2 @@
-Student ID     Student Name    Maths_mark  CCP_Mark  BEEE_Mark  Total_Marks
+24CS032			Khushi Ka.patel		12.000000		12.000000		12.000000		36.000000
+24CS046			Dharm Lakhani		20.000000		19.000000		19.000000		58.000000
