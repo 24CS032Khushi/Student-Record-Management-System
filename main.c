@@ -48,6 +48,7 @@ void main()
                  goto restart;
         case 3 : Edit_stuDetails(&stu[0],lastStu);
                  goto restart;
+        case 4 : 
         case 0 : printf("THANK YOU!!");
                  break ;
                 
