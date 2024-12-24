@@ -1,3 +1,5 @@
+Student ID      Student Name        Maths Mark      CCP Mark        BEEE Mark       Total Mark
 24CS001			Ayushi Vaghela		20.000000		19.000000		20.000000		59.000000
 24CS020			Palak Donga 		20.000000		19.000000		20.000000		59.000000
 24CS032			Khushi Kapatel		20.000000		20.000000		20.000000		60.000000
+
